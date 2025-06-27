@@ -89,3 +89,39 @@ def get_session_by_code(
     if not session:
            raise HTTPException(status_code=404, detail="Session not found")
     return session
+
+
+from fastapi import Path
+
+@router.put("/{session_id}/live")
+def update_live_status(
+    session_id: int = Path(..., description="ID de la session"),
+    is_live: bool = True,
+    db: Session = Depends(get_db),
+    current_user: User = Depends(get_current_user)
+):
+    session = db.query(SessionModel).filter(SessionModel.id == session_id).first()
+
+    if not session:
+        raise HTTPException(status_code=404, detail="Session not found")
+
+    # Vérifie que seul l'hôte peut lancer le live
+    if session.host_id != current_user.id:
+        raise HTTPException(status_code=403, detail="Only the host can start the live")
+
+    session.is_live = is_live
+    db.commit()
+    return {"message": f"Session {'en direct' if is_live else 'terminée'}."}
+
+
+@router.get("/{session_id}/live")
+def get_live_status(
+    session_id: int,
+    db: Session = Depends(get_db)
+):
+    session = db.query(SessionModel).filter(SessionModel.id == session_id).first()
+
+    if not session:
+        raise HTTPException(status_code=404, detail="Session not found")
+
+    return {"is_live": session.is_live}

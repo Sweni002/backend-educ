@@ -17,8 +17,10 @@ from app.api import session as session_api
 from app.api import comment as comment_api
 from app.api import file as file_api
 from app.api import speak as speak_api
-from app.api import video 
+from app.api import video  , signaling
 from fastapi.staticfiles import StaticFiles
+from app.websocket.live_socket import router as live_socket_router
+
 # Créer les tables
 Base.metadata.create_all(bind=engine)
 
@@ -40,7 +42,11 @@ app.include_router(comment_api.router, prefix="/comments", tags=["Comments"])
 app.include_router(file_api.router, prefix="/files", tags=["Files"])
 app.include_router(speak_api.router, prefix="/speak", tags=["Speak Requests"])
 app.include_router(video.router)
+
+app.include_router(signaling.router)
 app.include_router(chat_ws_router)
+
+app.include_router(live_socket_router)
 app.mount("/uploads", StaticFiles(directory="uploads"), name="uploads")
 
 @app.get("/")
