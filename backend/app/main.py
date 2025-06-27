@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.database import engine, Base
-
+from app.websocket.chat_ws import router as chat_ws_router
 # Importer tous les modèles explicitement
 from app.models.user import User
 from app.models.session import Session
@@ -40,7 +40,7 @@ app.include_router(comment_api.router, prefix="/comments", tags=["Comments"])
 app.include_router(file_api.router, prefix="/files", tags=["Files"])
 app.include_router(speak_api.router, prefix="/speak", tags=["Speak Requests"])
 app.include_router(video.router)
-
+app.include_router(chat_ws_router)
 app.mount("/uploads", StaticFiles(directory="uploads"), name="uploads")
 
 @app.get("/")

@@ -1,0 +1,84 @@
+1-da ----- : COLLECTE DES DONNEES(EXTRACTION)
+
+2-nettoyage  et prep des donnee 
+
+-------- :les logiciels pour visualiser : excel ,data studio ,power bi 
+
+cycle de travail :identifier(excel ve, bd  ve ,web ve  )
+
+connexion amzay (connecteur powerBi :csv ,web ,SQL )
+prepar : power QUery  
+modeli°
+
+charger dans pB
+modelisation : visual de table no ilana azy 
+
+language DAX
+LANGUAGE m no ammpiasana amin powr query
+
+
+manangina donne ----powerQuery (objectif :optimiser analytique)
+
+analyse des donnee(etapes) :
+---definir l' objectif d etudes (comme cahier de charge))
+-----besoin ,....
+1-collecter et extract° des donnee(web ou csv ou sql)
+2-nettoyge et preparat° 
+---powerQuery
+
+
+3-analyse statistique
+4-visualisat°
+
+---powerBi
+
+
+ CONCEPTION ANALYTIQUE NO EO AMIN MODELISATION 
+ETL --- Moteur d analyse(ao amin power Bi no anaovana azy )
+Modelisat° =coeur (cruciale )
+.faut organiser les données  :inserena anaty  table effet  lay donnée(bd analytique  : orientée colonne)
+ *attention : diso modelisation 
+ 
+ 
+vo misy dimension(ex filière , ..) adino de limité ny accès d analyse
+
+table de dimesion : accès d analyse (exemple : vente de produit(t.de faits)  ,dimesion :client ,...)
+
+table de fais  :   ventes
+
+
+recommonde sur ANalytique ( 1 anaty dimension de plusieurs faits (1 *n))
+
+AXE D ANALYSE :table de dimension
+
+*ts maints marquena  ho date zay Date (type date )
+
+table de faits : tokn misy indicateurs(misy n clé etrangers )
+
+
+mapiasa table de dimension raha hi lier  table de faits
+
+
+*****Modele en etoile(date de faits ampovoany ,dimension manodidina )---priviligés ito ,perfo optimisé
+
+
+
+***flocon de Neige : normaliser ny table ( objectif : mihena ny taille de modele (mihena 5 GO EXEMPLE ) , tres complexe  ,faut priviliger la simplicité
+
+****galaxie ou constellation : table de faits misy table de faits maro
+
+
+
+0026
+
+
+
+
+
+
+
+
+
+
+
+

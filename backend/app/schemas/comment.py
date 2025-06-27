@@ -13,6 +13,6 @@ class CommentResponse(CommentBase):
     session_id: int
     user_id: int
     created_at: datetime
-    
+    user_name: str 
     class Config:
         from_attributes = True

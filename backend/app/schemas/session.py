@@ -5,6 +5,7 @@ from typing import Optional
 class SessionBase(BaseModel):
     title: Optional[str] = None
     description : Optional[str] = None
+    code: str  
 
 class SessionCreate(SessionBase):
     pass

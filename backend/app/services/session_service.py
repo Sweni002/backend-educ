@@ -4,18 +4,18 @@ from sqlalchemy.orm import Session
 from app.models.session import Session as SessionModel
 from app.models.participant import Participant
 from app.schemas.session import SessionCreate
+from fastapi_mail import MessageSchema
 
 def generate_session_code():
     return ''.join(random.choices(string.ascii_uppercase + string.digits, k=6))
 
 def create_session(db: Session, session: SessionCreate, user_id: int):
-    code = generate_session_code()
-    # Vérifier que le code n'existe pas déjà
-    while db.query(SessionModel).filter(SessionModel.code == code).first():
-        code = generate_session_code()
-    
+    # Vérifie si le code existe déjà
+    if db.query(SessionModel).filter(SessionModel.code == session.code).first():
+        raise HTTPException(status_code=400, detail="Code already exists")
+
     db_session = SessionModel(
-        code=code,
+        code=session.code,
         host_id=user_id,
         title=session.title,
         description=session.description
@@ -24,6 +24,7 @@ def create_session(db: Session, session: SessionCreate, user_id: int):
     db.commit()
     db.refresh(db_session)
     return db_session
+
 
 def join_session(db: Session, code: str, user_id: int):
     session = db.query(SessionModel).filter(SessionModel.code == code).first()
@@ -45,3 +46,4 @@ def join_session(db: Session, code: str, user_id: int):
         db.commit()
     
     return session
+

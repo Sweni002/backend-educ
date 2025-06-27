@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Liste de lecture</title>
+	<trackList>
+		<track>
+			<location>file:///home/seni/Bureau/audio/gims%20&amp;%20werenoi%20-%20PIANO%20(clip%20officiel).mp4</location>
+			<duration>170583</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Jalouse(MP3_160K).mp3</location>
+			<title>﻿Jalouse</title>
+			<creator>﻿Werenoi, SDM, Vacra</creator>
+			<album>﻿Diamant Noir</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFWerenoi%2C%20SDM%2C%20Vacra/%EF%BB%BFDiamant%20Noir/art</image>
+			<duration>192480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/sombr%20-%20back%20to%20friends%20(official%20audio)(MP3_160K).mp3</location>
+			<title>﻿back to friends</title>
+			<creator>﻿sombr</creator>
+			<album>﻿back to friends</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFsombr/%EF%BB%BFback%20to%20friends/art</image>
+			<duration>199080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Werenoi%20-%20Omega%20(Pyramide%202)(MP3_160K).mp3</location>
+			<title>﻿Omega</title>
+			<creator>﻿Pyramid</creator>
+			<album>﻿Kitsuné: Night Tales</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFPyramid/%EF%BB%BFKitsun%C3%A9_%20Night%20Tales/art</image>
+			<duration>144048</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/CONTACT(MP3_160K).mp3</location>
+			<title>﻿CONTACT</title>
+			<creator>﻿GIMS</creator>
+			<album>﻿CONTACT</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFGIMS/%EF%BB%BFCONTACT/art</image>
+			<duration>194568</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Hamza%20-%20KYKY2BONDY%20(Clip%20Officiel)(MP3_160K).mp3</location>
+			<title>﻿KYKY2BONDY</title>
+			<creator>﻿Hamza</creator>
+			<album>﻿KYKY2BONDY</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFHamza/%EF%BB%BFKYKY2BONDY/art</image>
+			<duration>143040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Morgan%20Wallen_%20Tate%20McRae%20-%20What%20I%20Want%20(Audio)(MP3_160K).mp3</location>
+			<title>﻿What I Want (feat. Tate McRae)</title>
+			<creator>﻿Morgan Wallen, Tate McRae</creator>
+			<album>﻿I’m The Problem</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFMorgan%20Wallen%2C%20Tate%20McRae/%EF%BB%BFI%E2%80%99m%20The%20Problem/art</image>
+			<duration>184608</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Alex%20Warren%20-%20Ordinary%20(Official%20Music%20Video).mp4</location>
+			<duration>187032</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Rim-Ka%20-%20GLITA%20(Official%20Video%20Music).mp4</location>
+			<duration>305428</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Poney(MP3_160K).mp3</location>
+			<title>﻿Poney</title>
+			<creator>﻿Werenoi</creator>
+			<album>﻿Diamant Noir</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFWerenoi/%EF%BB%BFDiamant%20Noir/art</image>
+			<duration>230040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/JuL%20-%20Ma%20Che%20Beaut%C3%A9%20__%20Clip%20officiel%20__%202018.mp4</location>
+			<duration>230830</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/GIMS%20-%20NINAO%20%F0%9F%87%AC%F0%9F%87%AA%20(Paroles_Lyrics)(MP3_160K).mp3</location>
+			<title>﻿NINAO</title>
+			<creator>﻿GIMS</creator>
+			<album>﻿NINAO</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFGIMS/%EF%BB%BFNINAO/art</image>
+			<duration>169824</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Rim_K%20-%20Run%20ft.%20_SDM92(MP3_160K).mp3</location>
+			<title>﻿Rim&#39;K - Run ft. @SDM92</title>
+			<creator>﻿Rim&#39;k</creator>
+			<album>﻿Rim&#39;k</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFRim%27k/%EF%BB%BFRim%27k/art</image>
+			<duration>175152</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/W%20Sound%2005%20%EF%BC%82LA%20PLENA%EF%BC%82%20-%20Be%C3%A9le,%20Westcol,%20Ovy%20On%20The%20Drums.mp4</location>
+			<duration>150021</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Werenoi%20Ft.%20Damso,%20Ninho%20-%20Triple%20V%20(Clip%20Officiel).mp4</location>
+			<duration>203965</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/LACO%20ho%20an_ilay%20tiako%20%F0%9F%A5%B0(MP3_160K).mp3</location>
+			<title>﻿LACO ho an&#39;ilay tiako </title>
+			<creator>﻿Mamy Dinyah</creator>
+			<album>﻿Mamy Dinyah</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFMamy%20Dinyah/%EF%BB%BFMamy%20Dinyah/art</image>
+			<duration>151008</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/GIMS%20-%20O%C3%B9%20aller%20(Paroles)(MP3_160K)_private.lrc</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/David%20Guetta_%20Alphaville%20_%20Ava%20Max%20-%20Forever%20Young%20(Official%20Music%20Video)(MP3_160K).mp3</location>
+			<title>﻿Forever Young</title>
+			<creator>﻿David Guetta, Alphaville, Ava Max</creator>
+			<album>﻿Forever Young</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFDavid%20Guetta%2C%20Alphaville%2C%20Ava%20Max/%EF%BB%BFForever%20Young/art</image>
+			<duration>157368</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Billie%20eillish.mp4</location>
+			<duration>230853</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/GIMS%20-%20Sois%20pas%20timide%20(Lyrics%20Video)(MP3_160K).mp3.vdjstems.tmp</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Ortegah%20feat%20Wendy%20Mialy%20-%20Lazao%20(Prod%20by%20Akmc)(MP3_160K).mp3</location>
+			<title>﻿Ortegah feat Wendy Mialy - Lazao (Prod by Akmc)</title>
+			<creator>﻿Wendy Mialy</creator>
+			<album>﻿Wendy Mialy</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFWendy%20Mialy/%EF%BB%BFWendy%20Mialy/art</image>
+			<duration>232680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Gazo%20-%20OPTIMALE%20feat.%20_orelsan(MP3_128K).mp3</location>
+			<title>﻿Gazo - OPTIMALE feat. @orelsan</title>
+			<creator>﻿GAZO OFFICIEL</creator>
+			<album>﻿GAZO OFFICIEL</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFGAZO%20OFFICIEL/%EF%BB%BFGAZO%20OFFICIEL/art.png</image>
+			<duration>184267</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Gazo%20-%20NANANI%20NANANA(MP3_128K).mp3</location>
+			<title>﻿Gazo - NANANI NANANA</title>
+			<creator>﻿GAZO OFFICIEL</creator>
+			<album>﻿GAZO OFFICIEL</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFGAZO%20OFFICIEL/%EF%BB%BFGAZO%20OFFICIEL/art.png</image>
+			<duration>217782</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Kendrick%20Lamar_%20SZA%20-%20luther%20(lyrics)(MP3_128K).mp3</location>
+			<title>﻿Kendrick Lamar, SZA - luther (lyrics)</title>
+			<creator>﻿SyrebralVibes</creator>
+			<album>﻿SyrebralVibes</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFSyrebralVibes/%EF%BB%BFSyrebralVibes/art.png</image>
+			<duration>177240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Billie%20Eilish%20-%20WILDFLOWER%20(Official%20Lyric%20Video)(MP3_128K).mp3</location>
+			<title>﻿Billie Eilish - WILDFLOWER (Official Lyric Video)</title>
+			<creator>﻿BillieEilishVEVO</creator>
+			<album>﻿BillieEilishVEVO</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFBillieEilishVEVO/%EF%BB%BFBillieEilishVEVO/art.png</image>
+			<duration>261302</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/SDM%20-%20CARTIER%20SANTOS%20(Visualizer%20Officiel)(MP3_160K).mp3</location>
+			<title>﻿SDM - CARTIER SANTOS (Visualizer Officiel)</title>
+			<creator>﻿SDM Officiel</creator>
+			<album>﻿SDM Officiel</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFSDM%20Officiel/%EF%BB%BFSDM%20Officiel/art.png</image>
+			<duration>183840</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Skaiz%20-%20Ngoma%20Anao%20%20%5B%20Real%20by%20Tsilavina.R%20_%20Gasy%20Ploit%202022%20%5D(MP3_160K).mp3</location>
+			<title>﻿Skaiz - Ngoma Anao  [ Real by Tsilavina.R / Gasy Ploit 2022 ]</title>
+			<creator>﻿Skaiz Official</creator>
+			<album>﻿Skaiz Official</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFSkaiz%20Official/%EF%BB%BFSkaiz%20Official/art.png</image>
+			<duration>221472</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Tiakola%20x%20SDM%20x%20Liim_s%20-%20PLAISIR%20NOCIF%20(Visual%20Mixtape)(MP3_160K).mp3</location>
+			<title>﻿Tiakola x SDM x Liim&#39;s - PLAISIR NOCIF (Visual Mixtape)</title>
+			<creator>﻿TIAKOLA</creator>
+			<album>﻿TIAKOLA</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFTIAKOLA/%EF%BB%BFTIAKOLA/art.png</image>
+			<duration>212736</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/Tiakola%20x%20Genezio%20x%20Prototype%20-%20PONA%20NINI%20(Visual%20Mixtape)(MP3_160K).mp3</location>
+			<title>﻿Tiakola x Genezio x Prototype - PONA NINI (Visual Mixtape)</title>
+			<creator>﻿TIAKOLA</creator>
+			<album>﻿TIAKOLA</album>
+			<image>file:///home/seni/.cache/vlc/art/artistalbum/%EF%BB%BFTIAKOLA/%EF%BB%BFTIAKOLA/art.png</image>
+			<duration>246960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seni/Bureau/audio/benny%20blanco,%20Halsey%20_%20Khalid%20%E2%80%93%20Eastside%20(official%20video).mp4</location>
+			<duration>174057</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+	</extension>
+</playlist>
